@@ -5,3 +5,7 @@
 <h2> Lan IP Scanner GUI </h2>
 <br>
 <h2> Only Support Windows </h2>
+
+# If theres any issues 
+contact me :
+<a href="https://m.me/dimuth92">Send a message</a>
