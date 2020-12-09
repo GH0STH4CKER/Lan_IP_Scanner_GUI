@@ -6,6 +6,6 @@
 <br>
 <h2> Only Support Windows </h2>
 
-# If theres any issues 
-contact me :
-<a href="https://m.me/dimuth92">Send a message</a>
+
+<h2>Any issues ?</h2>
+<a href="https://m.me/dimuth92">Contact Me</a>
